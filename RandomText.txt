@@ -1,1 +1,6 @@
+<<< This is taken from second branch >>>>
+This content will only be in Second feature branch
+
+<<This is from first branch, solving conflict>>
 This file will only be in a seperate branch
+
